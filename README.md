@@ -30,7 +30,7 @@ Main features implemented are;
 - .Net 6
 
 ## Installation
-1. Clone the repo and install the dependencies.
+1. Clone the repo.
 ```bash
 $ git clone https://github.com/devni-heraliyawala/plugin-framework.git
-$ cd news-hub-backend
+$ cd plugin-framework
